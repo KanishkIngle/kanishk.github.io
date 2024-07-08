@@ -5,7 +5,7 @@
   Portfolio Website Version 1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://kanishkingle.github.io/" target="_blank">Kanishk Ingle's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+  The first iteration of <a href="https://kanishk.github.io/" target="_blank">Kanishk Ingle's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 </p>
 <!-- <p align="center">
   Previous iterations:
